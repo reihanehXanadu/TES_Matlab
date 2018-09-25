@@ -1,2 +1,6 @@
 # Data files
 *.daq
+*.mat
+*.asv
+*.fig
+*.png
